@@ -1,0 +1,112 @@
+.. |br|     raw:: html        .. force a line break in HTML output (blank lines needed here)
+
+   <br />
+.. |PN| replace:: Slim Bootloader
+
+.. |LPN| replace:: Slim Bootloader Open Source Project
+
+.. |SPN| replace:: SBL
+
+.. |APL| replace:: Apollo Lake platform
+
+.. |UP2| replace:: UP\ :sup:`2`
+
+.. |WHL| replace:: Whiskey Lake
+
+.. |UPX| replace:: UP Xtreme
+
+.. |UPX11| replace:: UP Xtreme i11
+
+.. |CFLR| replace:: Coffee Lake Refresh
+
+.. |CFLSR| replace:: Coffee Lake Refresh Desktop S8+2
+
+.. |CFLHR| replace:: Coffee Lake Refresh Mobile H6+2
+
+.. |CML| replace:: Comet Lake
+
+.. |CMLH| replace:: CML S RVP with PCH H
+
+.. |CMLV| replace:: CML S RVP with PCH V
+
+.. |CMLH420E| replace:: CML S RVP with PCH H420E
+
+.. |TGL| replace:: Tiger Lake
+
+.. |EHL| replace:: Elkhart Lake
+
+.. |ADL| replace:: Alder Lake
+
+.. |ADLS| replace:: ADL-S
+
+.. |ADLP| replace:: ADL-P
+
+.. |ADLPS| replace:: ADL-PS
+
+.. |ADLN| replace:: ADL-N
+
+.. |ASL| replace:: Amston Lake
+
+.. |RPL| replace:: Raptor Lake
+
+.. |RPLS| replace:: RPL-S
+
+.. |SAZB| replace:: AZB
+
+.. |LAZB| replace:: Arizona Beach
+
+.. |ICXD| replace:: ICX-D
+
+.. |MTL| replace:: Meteor Lake
+
+.. |MTLP| replace:: MTL-P
+
+.. |MTLPS| replace:: MTL-PS
+
+.. |UPX12| replace:: UP Xtreme i12
+
+.. |MTL-MCL| replace:: McLaren Island
+
+.. |UPX7000| replace:: UP Squared Pro 7000 Edge
+
+.. |UP26000| replace:: UP\ :sup:`2` 6000
+
+.. |RPLP| replace:: Raptor Lake-P
+
+.. |UPX12RPLP| replace:: UP Xtreme i12 13th
+
+.. |CFGTOOL| replace:: Configuration Editor
+
+.. |ARL| replace:: Arrow Lake
+
+.. |ARLH| replace:: ARL-H
+
+.. |ARLU| replace:: ARL-U
+
+.. |ARLS| replace:: ARL-S
+
+.. |ARLHU| replace:: ARL-H/U
+
+.. _project repo: https://github.intel.com/Intel-Slim-Bootloader/slimbootloader
+
+.. _documentation repo: https://github.intel.com/Intel-Slim-Bootloader/documentation
+
+.. _documentation site: https://github.intel.com/pages/slimbootloader
+
+.. _project website: https://github.intel.com/pages/slimbootloader
+
+.. These are replacement strings for non-ASCII characters used within the project
+   using the same name as the html entity names (e.g., &copy;) for that character
+
+.. |copy|   unicode:: U+000A9 .. COPYRIGHT SIGN
+   :ltrim:
+.. |trade|  unicode:: U+02122 .. TRADEMARK SIGN
+   :ltrim:
+.. |reg|    unicode:: U+000AE .. REGISTERED TRADEMARK SIGN
+   :ltrim:
+.. |deg|    unicode:: U+000B0 .. DEGREE SIGN
+   :ltrim:
+.. |plusminus|  unicode:: U+000B1 .. PLUS-MINUS SIGN
+   :rtrim:
+.. |micro|  unicode:: U+000B5 .. MICRO SIGN
+   :rtrim:
